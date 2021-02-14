@@ -13,5 +13,6 @@ Modify the waypoints in `route_smooth.csv` file
 ```rosrun deepracer_simulation pid_controller.py```
 
 ## Visualize the navigated path in rviz
+![deepracer-hard-track-world.jpg](docs/images/deepracer-hard-track-world.jpg)
 
 
